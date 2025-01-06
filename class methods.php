@@ -28,6 +28,7 @@ $admin=new user;
 $admin->name="Дмитрий ";
 $admin->surname="Брекоткин";
 echo"Пользователь:{$admin->getInfo()}";
+echo"no homo";
 ?>
 </body>
 </html>
